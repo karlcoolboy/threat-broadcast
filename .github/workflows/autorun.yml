@@ -1,4 +1,4 @@
-name: Automatically crawl CVEs 
+name: Automatically crawl CVE
 on:
   push:
     branches:
